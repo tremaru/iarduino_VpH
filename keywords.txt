@@ -1,0 +1,28 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_VpH
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_VpH	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	setCalibration	KEYWORD2
+	getCalibration	KEYWORD2
+	getResultCalib	KEYWORD2
+	setStopCalib	KEYWORD2
+	getStability	KEYWORD2
+	getDrift	KEYWORD2
+	setDif_V	KEYWORD2
+	getPH	KEYWORD2
+	getErr	KEYWORD2
+	averaging	KEYWORD2
+	known_PH1	KEYWORD2
+	known_PH2	KEYWORD2
+	min_drift	KEYWORD2
+	stand_mVstp	KEYWORD2
+	mVstp	KEYWORD2
+	pHn	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	VpH_Err_Limit	LITERAL1
+	VpH_Err_jumps	LITERAL1
